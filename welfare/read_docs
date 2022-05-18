@@ -1,0 +1,2 @@
+url = 'https://github.com/hyunyulhenry/lecture/raw/master/%EC%9D%B4%ED%98%84%EC%97%B4_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D.docx'
+download.file(url, 'data.docx', mode = 'wb')
